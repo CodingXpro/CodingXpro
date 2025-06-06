@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif"/>
 </p>
 <h1 align="center">Hi 👋, I'm Krishna Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingxpro&label=Profile%20views&color=0e75b6&style=flat" alt="codingxpro" /> </p>
